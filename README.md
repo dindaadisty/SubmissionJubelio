@@ -7,7 +7,7 @@ The automation scenarios cover the login flow and inventory management in Jubeli
 - Running `gem install selenium-webdriver` in your command line to install the Selenium Web Driver gem.
 
 # Getting Started
-1. Clone this repository by running `git clone ` in your command line.
+1. Clone this repository by running `git clone https://github.com/dindaadisty/SubmissionJubelio.git` in your command line.
 2. Install the required dependencies by running `bundle install`
 3. Configure the test scenarios and settings in the respective files.
 4. Run the test scenarios.
